@@ -1,0 +1,7 @@
+#
+#Tue Jul 09 13:23:44 CEST 2019
+com.springdemo.controller.CustomerController=org.springframework.stereotype.Component
+com.springdemo.entity.Customer=javax.persistence.Entity,javax.persistence.Table
+com.test.jdbc.TestDbServlet=javax.servlet.annotation.WebServlet
+com.springdemo.service.CustomerServiceImpl=org.springframework.stereotype.Component
+com.springdemo.DAO.CustomerDAOImpl=org.springframework.stereotype.Component
